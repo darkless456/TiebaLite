@@ -12,8 +12,6 @@
 
 ## 说明
 
-**本软件及源码仅供学习交流使用，严禁用于商业用途。**
-
 ## 友情链接
 
 + [Starry-OvO/aiotieba: Asynchronous I/O Client for Baidu Tieba](https://github.com/Starry-OvO/aiotieba)
